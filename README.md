@@ -1,4 +1,4 @@
-# PLS READ
+# PLEASE READ
 This is a selenium bot which auto comments on your facebook post
 
 # Important 
